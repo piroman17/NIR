@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-frames = 100
+frames = 5000
 N = int(input("Введите кол-во абонентов\n"))
 p = 0.01
 T = []
